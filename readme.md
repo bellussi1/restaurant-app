@@ -1,6 +1,6 @@
 
 # Sobre
-Camp é uma landing page com temática de restaurante no tema escuro! Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript vanilla para criar uma página de destino.
+Uma landing page com temática de restaurante no tema escuro! Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript vanilla para criar uma página de destino.
 Você pode acessá-lo com este [link](https://bellussi1.github.io/restaurant-app/).
 ## Visão Geral
 Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
